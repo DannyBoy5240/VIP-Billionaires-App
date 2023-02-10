@@ -1,0 +1,195 @@
+import {Dimensions, StyleSheet} from 'react-native';
+
+const {width, height} = Dimensions.get('window');
+
+const styles = StyleSheet.create({
+  container: {},
+  logo: {
+    height: 82,
+    resizeMode: 'contain',
+  },
+  welcomeText: {
+    marginTop: 9,
+    fontSize: 25,
+    fontFamily: 'Raleway',
+    fontWeight: '600',
+  },
+  completeStepsText: {
+    color: '#4A4A4A',
+    fontFamily: 'Raleway',
+    fontWeight: '400',
+    fontSize: 12,
+    textAlign: 'center',
+    marginTop: 9,
+  },
+  uploadButtonsContainer: {
+    width: width * 0.9,
+    alignSelf: 'center',
+    marginTop: 30,
+  },
+  optionButton: {
+    width: '99%',
+    height: 54,
+    borderRadius: 6,
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingLeft: 12,
+    marginVertical: 5,
+    opacity: 5,
+    alignSelf: 'center',
+  },
+  uploadNowText: {
+    fontSize: 12,
+    fontWeight: '700',
+    lineHeight: 22,
+    position: 'absolute',
+    right: 9,
+  },
+  uploadProfileImageText: {
+    marginLeft: 10,
+    fontSize: 16,
+    fontFamily: 'Hind Vadodara',
+    fontWeight: '500',
+  },
+  addExperienceContainer: {
+    width: width * 0.9,
+    alignSelf: 'center',
+    marginTop: 15,
+  },
+  addExperienceBtn: {
+    width: '99%',
+    height: 54,
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingLeft: 8,
+    marginVertical: 10,
+    backgroundColor: '#B1B1B11A',
+    opacity: 5,
+    alignSelf: 'center',
+  },
+  addExperienceTxt: {
+    alignSelf: 'center',
+    fontFamily: 'Hind Vadodara',
+    fontSize: 16,
+    fontWeight: '500',
+  },
+  updateExperienceTxt: {
+    fontFamily: 'Raleway',
+    fontSize: 12,
+    fontWeight: '500',
+    marginBottom: 15,
+    marginLeft: 10,
+  },
+  othersText: {
+    fontFamily: 'Raleway',
+    fontSize: 12,
+    fontWeight: '500',
+    marginBottom: 15,
+    marginLeft: 10,
+  },
+  basicSubscriptionBtn: {
+    width: '99%',
+    height: 54,
+    borderRadius: 6,
+    flexDirection: 'row',
+    paddingLeft: 10,
+    marginVertical: 5,
+    backgroundColor: '#B1B1B11A',
+    opacity: 5,
+    alignSelf: 'center',
+    alignItems: 'center',
+  },
+  othersContainer: {
+    width: width * 0.9,
+    alignSelf: 'center',
+    marginTop: 15,
+  },
+  inviteNowBtn: {
+    width: '99%',
+    height: 54,
+    borderRadius: 6,
+    paddingLeft: 10,
+    marginVertical: 5,
+    backgroundColor: '#B1B1B11A',
+    opacity: 5,
+    alignSelf: 'center',
+    flexDirection: 'row',
+  },
+  reward_badge: {
+    resizeMode: 'contain',
+    width: 40,
+    height: 43.22,
+  },
+  fast_email_sending: {
+    resizeMode: 'contain',
+    width: 40,
+    height: 43.22,
+  },
+  basicSubscriptionAndUpgradePlanContainer: {
+    marginLeft: 14,
+  },
+  basicSubscriptionText: {
+    fontFamily: 'Hind Vadodara',
+    fontWeight: '600',
+    fontSize: 16,
+  },
+  upgradePlanText: {
+    fontFamily: 'Raleway',
+    fontSize: 10,
+  },
+  inviteTitle: {
+    fontFamily: 'Hind Vadodara',
+    fontWeight: '600',
+    fontSize: 16,
+  },
+  inviteDescription: {
+    fontFamily: 'Raleway',
+    fontSize: 10,
+  },
+  bottomSheet: {
+    width,
+    alignSelf: 'center',
+    backgroundColor: '#B1B1B11A',
+    opacity: 5,
+    position: 'absolute',
+    bottom: 0,
+    height: height * 0.18,
+    borderTopLeftRadius: 8,
+    alignItems: 'center',
+    paddingHorizontal: 24,
+    paddingTop: 5,
+  },
+  termsAndConditions: {
+    color: '#DBAA2E',
+    fontSize: 14,
+  },
+  privacyPolicy: {
+    color: '#DBAA2E',
+  },
+  termsAndConditionsPrivacyPolicy: {
+    fontFamily: 'Raleway',
+    fontSize: 14,
+  },
+  headerContainer: {
+    marginTop: 10,
+    justifyContent: 'center',
+    alignItems: 'center',
+    height: 210,
+  },
+  confirmBtn: {
+    height: 45,
+    alignSelf: 'center',
+    width: '90%',
+  },
+  radioButton: {
+    position: 'absolute',
+    paddingHorizontal: 10,
+  },
+  radioButtonAndText: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 15,
+  },
+});
+
+export default styles;

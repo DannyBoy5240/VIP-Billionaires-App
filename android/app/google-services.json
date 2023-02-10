@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "729621830311",
+    "firebase_url": "https://vip-billionaires-c07df.firebaseio.com",
+    "project_id": "vip-billionaires-c07df",
+    "storage_bucket": "vip-billionaires-c07df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729621830311:android:265ef7b871b0e316fd9982",
+        "android_client_info": {
+          "package_name": "com.ninasoft.vipbillionaires"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LrCugVtddVF2z54cHzkmIcsmkdUiLnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729621830311-0o6ti4k77ud12dqrsg2l9vi4ajvldh64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729621830311-vujffh5hujem1431a38jhapr74ivri4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ninasoft.vipbillionaires",
+                "app_store_id": "1076103571"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729621830311:android:0abebf2b101540fcfd9982",
+        "android_client_info": {
+          "package_name": "com.zed.vipbillionaires"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729621830311-et4gpqtctr222q3gorql888hrq68053c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zed.vipbillionaires",
+            "certificate_hash": "b44af014d210765f6e0fcf4475b4089ac78a1cb7"
+          }
+        },
+        {
+          "client_id": "729621830311-h1iq0eikvlmlhqg070nkr8jnom0uib1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zed.vipbillionaires",
+            "certificate_hash": "6499ab7d793a4bb76c4ee178b258417620b08763"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LrCugVtddVF2z54cHzkmIcsmkdUiLnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729621830311-0o6ti4k77ud12dqrsg2l9vi4ajvldh64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729621830311-vujffh5hujem1431a38jhapr74ivri4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ninasoft.vipbillionaires",
+                "app_store_id": "1076103571"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9167808110872900~9440129641"
+    }
+  ],
+  "configuration_version": "1"
+}

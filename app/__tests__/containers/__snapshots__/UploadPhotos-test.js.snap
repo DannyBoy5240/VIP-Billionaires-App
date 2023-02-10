@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "borderRadius": 4,
+        "borderWidth": 1,
+        "padding": 8,
+      },
+      Object {
+        "borderColor": undefined,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "marginBottom": 8,
+      }
+    }
+  >
+    Upload Photos
+  </Text>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginVertical": 8,
+      }
+    }
+  />
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderStyle": "dashed",
+        "borderWidth": 1,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "paddingVertical": 8,
+          "textAlign": "center",
+        }
+      }
+    >
+      Tap to Upload Photos
+    </Text>
+  </View>
+</View>
+`;

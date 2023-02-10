@@ -1,0 +1,300 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "borderRadius": 4,
+        "borderWidth": 1,
+        "marginBottom": 8,
+        "padding": 8,
+      },
+      Object {
+        "borderColor": undefined,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "marginBottom": 8,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "fontSize": 12,
+          },
+          Object {
+            "color": undefined,
+          },
+        ]
+      }
+    >
+      0
+    </Text>
+    <View
+      style={
+        Array [
+          Array [],
+          Object {
+            "flexGrow": 1,
+          },
+        ]
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          Array [
+            Object {
+              "alignItems": "flex-start",
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+            },
+            Object {
+              "top": -0,
+            },
+          ]
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            Object {
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "translateX": 0,
+                },
+              ],
+            }
+          }
+        >
+          <View
+            onLayout={[Function]}
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#4499ff",
+                  "borderRadius": 4,
+                  "padding": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#fff",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                NaN
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          collapsable={false}
+          style={
+            Object {
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "translateX": 0,
+                },
+              ],
+            }
+          }
+        >
+          <View
+            onLayout={[Function]}
+          >
+            <View
+              style={
+                Object {
+                  "borderLeftColor": "transparent",
+                  "borderLeftWidth": 4,
+                  "borderRightColor": "transparent",
+                  "borderRightWidth": 4,
+                  "borderTopColor": "#4499ff",
+                  "borderTopWidth": 8,
+                  "height": 8,
+                  "width": 8,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "bottom": 0,
+                "flexDirection": "row",
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+              Object {
+                "marginHorizontal": 0,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "#7f7f7f",
+                "borderRadius": 2,
+                "flex": 1,
+                "height": 4,
+              }
+            }
+          />
+          <View
+            collapsable={false}
+            style={
+              Object {
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#4499ff",
+                  "borderRadius": 2,
+                  "height": 4,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          collapsable={false}
+          onLayout={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": 0,
+                },
+              ],
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "#ffffff",
+                "borderColor": "#7f7f7f",
+                "borderRadius": 12,
+                "borderWidth": 2,
+                "height": 24,
+                "width": 24,
+              }
+            }
+          />
+        </View>
+        <View
+          collapsable={false}
+          style={
+            Object {
+              "position": "absolute",
+              "transform": Array [
+                Object {
+                  "translateX": 0,
+                },
+              ],
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "#ffffff",
+                "borderColor": "#7f7f7f",
+                "borderRadius": 12,
+                "borderWidth": 2,
+                "height": 24,
+                "width": 24,
+              }
+            }
+          />
+        </View>
+        <View
+          collapsable={false}
+          onMoveShouldSetResponder={[Function]}
+          onMoveShouldSetResponderCapture={[Function]}
+          onResponderEnd={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderReject={[Function]}
+          onResponderRelease={[Function]}
+          onResponderStart={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          style={
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        />
+      </View>
+    </View>
+    <Text
+      style={
+        Array [
+          Object {
+            "fontSize": 12,
+          },
+          Object {
+            "color": undefined,
+          },
+        ]
+      }
+    >
+      100
+    </Text>
+  </View>
+</View>
+`;

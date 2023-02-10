@@ -1,0 +1,54 @@
+***************************************** example1 **************************************
+comments:
+ ...
+date : Dec 29, 2022
+id : 2OrVZmbUoLhGhby4S04k
+likes : (array)
+medias : 
+	0 : 
+		type : photo
+		url : https://firebasestorage.googleapis.com:443/v0/b/vip-billionaires-c07df.appspot.com/o/photo_1672333956029_0?alt=media&token=5c95bbb6-341a-4284-858c-9c6577c3b25b
+	1 :
+		type : photo
+		url : https://firebasestorage.googleapis.com:443/v0/b/vip-billionaires-c07df.appspot.com/o/photo_1672333956032_1?alt=media&token=9f17fe38-5127-4832-a15f-a7176de5527a
+	2 : 
+		type : video
+		url : https://firebasestorage.googleapis.com:443/v0/b/vip-billionaires-c07df.appspot.com/o/video_1672334049028_3?alt=media&token=8be34ba8-5b01-4da2-b8ee-4d11b48dd54e
+type : null
+text : Post Media fully completed
+userId : eZ6wVVZ5NsQCcWsdG5LwBRvOcmH3
+
+-----------------------------------------------
+dsalomonj@gmail.com
+
+avatar : https://firebasestorage.googleapis.com:443/v0/b/vip-billionaires-c07df.appspot.com/o/photo_774?alt=media&token=701cc946-6a7b-4f3f-80fa-234bd459f698
+back_image : https://firebasestorage.googleapis.com/v0/b/vip-billionaires-c07df.appspot.com/o/avatar_60?alt=media&token=957524b4-b234-4f6f-ad75-8caa530b7fe3
+bio : Bio - Engineer
+birthday : 12/14/2022
+blocked :
+	
+city : HongKong
+company : ZEDTECH
+country : China
+createdAt : Dec 21, 2022
+displayName : Dan Salomon
+education : Master of Arts
+email : dsalomonj@gmail.com
+followers :
+followings :
+	X8azyi4zxLTn5gDbFzKmfpx154C2
+gender : female
+handle : @6t70b0chu2ldi
+id : GLACagFv3rK0c2dYxC8Q
+job : Job - IT
+language : en-US
+location : HK-Ocean
+phone : +342342424
+role : Role-Developer
+purpose : To attempt to rewrite class based components to function components.
+salary : $0-$50,000
+token : dqpmebqEdk13pQyyT75aP-:APA91bFD3YrM6UNCSZ3U8fu3BPRvavNmwURU4mIXWCjJOwylaxxgeOzNcZw6hd6qo764aRgaq3nwZY6eix-PynFKa-AUD3pYoWZCJOgf40HQezTY0GpvmvHLcWEK-XDi3SjA_QKIfenB
+userId : eZ6wVVZ5NsQCcWsdG5LwBRvOcmH3
+website : https://dan-salomon.website
+years_of_service : 0 - 2 years
+-----------------------------------------------
